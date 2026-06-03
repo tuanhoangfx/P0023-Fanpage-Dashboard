@@ -60,11 +60,12 @@
                    "customDomains":  [
                                          "fanpage.infix1.io.vn"
                                      ],
-                   "notes":  "Vite SPA. DNS A fanpage.infix1.io.vn -\u003e 76.76.21.21 (Tino)."
+                   "notes":  "Vite SPA. DNS A fanpage.infix1.io.vn -\u003e 76.76.21.21 (Tino).",
+                   "projectId":  "prj_A2mA0XSmW1XH4e1IcvZOhsuSd5CG"
                },
     "health":  {
                    "status":  "Ready",
                    "note":  "Facebook access token via in-app Settings. Optional GEMINI_API_KEY for EngagementBooster."
                },
-    "manifestUpdatedAt":  "2026-06-03T00:49:21.181Z"
+    "manifestUpdatedAt":  "2026-06-03T00:52:19.046Z"
 }
