@@ -10,8 +10,8 @@
 - Product: P0023
 - Prompt: Thực hiện toàn bộ các đề xuất — Tailwind build, rename P0023-Fanpage-Dashboard, domain fanpage.infix1.io.vn, Release.
 - Commit: `8b146e5`
-- Status: Committed
-- Release:
+- Status: Verified
+- Release: https://github.com/tuanhoangfx/P0023-Fanpage-Dashboard/releases/tag/v2.1.1
 
 ### Changes
 
@@ -22,9 +22,9 @@
 
 ### Verification
 
-- `corepack pnpm build` — pending
-- Browser: https://fanpage.infix1.io.vn — pending
-- Browser: https://p0023-fanpage-dashboard.vercel.app — pending
+- `corepack pnpm build` — passed (main 256KB, CSS 27KB gzip, lazy chunks)
+- Browser: https://p0023-fanpage-dashboard.vercel.app — OK (Fanpage Dashboard)
+- Browser: https://fanpage.infix1.io.vn — DNS pending (Tino A → 76.76.21.21)
 
 ### Rollback
 
