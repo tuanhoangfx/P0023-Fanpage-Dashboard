@@ -9,8 +9,8 @@
 - Type: Major
 - Product: P0023
 - Prompt: Thực hiện toàn bộ các đề xuất — Tailwind build, rename P0023-Fanpage-Dashboard, domain fanpage.infix1.io.vn, Release.
-- Commit: pending
-- Status: Pending
+- Commit: `8b146e5`
+- Status: Committed
 - Release:
 
 ### Changes
