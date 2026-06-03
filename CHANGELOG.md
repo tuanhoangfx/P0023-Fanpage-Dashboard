@@ -8,7 +8,7 @@
 - Version: `2.1.1`
 - Type: Major
 - Product: P0023
-- Prompt: Thực hiện toàn bộ các đề xuất — Tailwind build, rename P0023-Fanpage-Dashboard, domain fanpage.infix1.io.vn, Release.
+- Prompt: Thực hiện toàn bộ các đề xuất — Tailwind build, rename P0023-Fanpage-Dashboard, domain fanpage.infi.io.vn, Release.
 - Commit: `8b146e5`
 - Status: Verified
 - Release: https://github.com/tuanhoangfx/P0023-Fanpage-Dashboard/releases/tag/v2.1.1
@@ -18,13 +18,13 @@
 - Tailwind CSS 3.4 build-time; removed CDN from `index.html`.
 - Lazy-load Settings, Uploader, RoleManager, EngagementBooster, PostDetailModal; `manualChunks` for React.
 - Renamed folder/repo **P0023-Fanpage-Dashboard**; GitHub `tuanhoangfx/P0023-Fanpage-Dashboard`.
-- Custom domain **https://fanpage.infix1.io.vn** on Vercel; `docs/DNS-FANPAGE.md`.
+- Custom domain **https://fanpage.infi.io.vn** on Vercel; `docs/DNS-FANPAGE.md`.
 
 ### Verification
 
 - `corepack pnpm build` — passed (main 256KB, CSS 27KB gzip, lazy chunks)
 - Browser: https://p0023-fanpage-dashboard.vercel.app — OK (Fanpage Dashboard)
-- Browser: https://fanpage.infix1.io.vn — DNS pending (Tino A → 76.76.21.21)
+- Browser: https://fanpage.infi.io.vn — DNS pending (Tino A → 76.76.21.21)
 
 ### Rollback
 

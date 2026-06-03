@@ -46,21 +46,21 @@
                                   ]
                 },
     "urls":  {
-                 "app":  "https://fanpage.infix1.io.vn",
+                 "app":  "https://fanpage.infi.io.vn",
                  "preview":  "https://p0023-fanpage-dashboard.vercel.app",
                  "local":  "http://127.0.0.1:3023",
                  "appSetupAt":  "2026-06-03T00:49:21.180Z"
              },
     "vercel":  {
                    "project":  "p0023-fanpage-dashboard",
-                   "productionUrl":  "https://fanpage.infix1.io.vn",
+                   "productionUrl":  "https://fanpage.infi.io.vn",
                    "previewUrl":  "https://p0023-fanpage-dashboard.vercel.app",
                    "productionBranch":  "main",
                    "team":  "tuanhoangfxs-projects",
                    "customDomains":  [
-                                         "fanpage.infix1.io.vn"
+                                         "fanpage.infi.io.vn"
                                      ],
-                   "notes":  "Vite SPA. DNS A fanpage.infix1.io.vn -\u003e 76.76.21.21 (Tino).",
+                   "notes":  "Vite SPA. DNS A fanpage.infi.io.vn -\u003e 76.76.21.21 (Tino).",
                    "projectId":  "prj_A2mA0XSmW1XH4e1IcvZOhsuSd5CG"
                },
     "health":  {

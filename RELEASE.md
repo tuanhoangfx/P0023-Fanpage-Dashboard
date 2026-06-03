@@ -7,6 +7,6 @@
 | Push | `Push P0023` |
 | Release | `Release P0023` |
 
-Production: https://fanpage.infix1.io.vn  
+Production: https://fanpage.infi.io.vn  
 Vercel preview: https://p0023-fanpage-dashboard.vercel.app  
 Local: http://127.0.0.1:3023
